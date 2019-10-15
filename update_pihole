@@ -1,0 +1,5 @@
+#check version
+pihole -v
+
+#update 
+pihole -up
